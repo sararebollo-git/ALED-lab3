@@ -6,7 +6,7 @@ import java.util.Comparator;
  * A custom Comparator for sorting Suffix objects based on the content of the
  * FASTA file. It needs access to the FASTA file's data array.
  *
- * @author mmiguel, rgarciacarmona
+ * @author mmiguel, rgarciacarmona 
  */
 public class SuffixComparator implements Comparator<Suffix> {
 
